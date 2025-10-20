@@ -1,61 +1,213 @@
-<!-- Banner/Logo al inicio -->
-<p align="center">
-  <img src="https://yesbpo.co/Logo%20Yes%20BPO_Mesa%20de%20trabajo%201.png" alt="Yes Contact & BPO SAS Logo" width="300"/>
-</p>
+<div align="center">
 
-# Yes Contact & BPO SAS  
-> La conexión perfecta
+# 💼 Yes Contact & BPO SAS
 
----
+### *La conexión perfecta entre tecnología y personas*
 
-## 🚀 Quiénes somos  
-En **Yes BPO** tenemos como misión liderar la transformación de soluciones personalizadas e innovadoras por medio de nuestros servicios B2B, evolucionando y optimizando los estándares de calidad, y brindando así nuevas estrategias que generen un gran impacto en las necesidades de cada cliente.
+[![Website](https://img.shields.io/badge/Web-yesbpo.com-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yesbpo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yes_BPO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/company/yes-bpo-s-a-s)
+[![Instagram](https://img.shields.io/badge/Instagram-@yesbpo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yesbpo/)
+[![Facebook](https://img.shields.io/badge/Facebook-YesBPO.co-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yesbpo.co)
 
-Nuestra visión es que, **para el año 2030**, seremos una empresa posicionada a nivel nacional, reconocida por ofrecer servicios de alta calidad, innovadores y creativos. Ofreceremos seguridad y acompañamiento a nuestros clientes, y fortaleceremos los servicios en contact center, gestión tecnológica y marketing digital.
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🚀  10+ años transformando la comunicación empresarial     ║
+║  🌟  Líderes en soluciones B2B personalizadas               ║
+║  💡  Pioneros en YES BPO 4.0                                 ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
-
-## 🎯 Nuestros valores  
-- **Responsabilidad**: Manejamos cada uno de los objetivos con planeación y entrega, estableciendo parámetros eficientes, eficaces e innovadores.  
-- **Pasión**: Únicos en lo que hacemos. Nuestro equipo de trabajo tiene un solo fin: *EL MEJOR SERVICIO*. Somos obstinados en conseguir atender ágilmente y eficazmente las necesidades de nuestros clientes.  
-- **Lealtad**: Nos destaca de nuestros competidores. Somos fieles a tu marca, te apoyamos en tu crecimiento. Creemos que tu inversión merece lo mejor.  
-- **Disciplina**: Nos concentramos responsablemente en tus objetivos, trabajamos por ellos y por tus resultados.  
+</div>
 
 ---
 
-## 🌟 Nuestras cualidades  
-- **Agradecimiento**: La confianza que nos brindan nuestros clientes nos ha permitido contar con 10 años consecutivos de trabajo en las mejores empresas de diferentes sectores. Hoy nos catalogamos como la compañía de mayor crecimiento en el país, en nuestro modelo de negocio.  
-- **Acompañamiento**: Estamos convencidos de que la excelencia del servicio solo la logramos cuando apoyamos a nuestros clientes. Acompañamos los procesos desde la primera conversación, donamos nuestro conocimiento, experiencia y capacidad, para brindarles un buen servicio.  
-- **Innovación**: Vivimos en desarrollo de nuevas alternativas de ser efectivos en contactos y en comunicación. Hoy vivimos la etapa de YES BPO 4.0.  
-- **Creatividad**: Ideamos y creamos soluciones que permitan construir valor agregado gracias a la información y al ingenio que nos compromete a brindar la mejor atención y resultados a nuestros clientes.
+## 🎯 Sobre Nosotros
+
+**Yes Contact & BPO SAS** es mucho más que un call center: somos tu **aliado estratégico** en la transformación digital de la comunicación empresarial. Con más de una década de experiencia, nos especializamos en crear **soluciones innovadoras y personalizadas** que impulsan el crecimiento de tu negocio.
+
+### 🏆 Nuestra Misión
+
+Liderar la transformación de soluciones personalizadas e innovadoras mediante servicios B2B de última generación, evolucionando constantemente los estándares de calidad y generando un **impacto real** en las necesidades de cada cliente.
+
+### 🔮 Nuestra Visión 2030
+
+Ser la empresa líder a nivel nacional, reconocida por:
+- ✨ Servicios de **alta calidad** e innovación constante
+- 🔐 Seguridad y acompañamiento integral
+- 🚀 Excelencia en contact center, gestión tecnológica y marketing digital
 
 ---
 
-## 📂 Historia & Servicios  
-Yes Contact & BPO SAS nació en 2010 como un call center especializado en telemercadeo. Durante los años 2011 a 2013 ejecutamos diferentes proyectos en portafolio y cobranzas, obteniendo así nuestros dos primeros clientes en recuperación de cartera y generando apoyo tecnológico en medios masivos de comunicación.  
-En 2016 actualizamos y mejoramos nuestro enfoque apuntando a potenciar cada servicio basado en nuestra experiencia.  
-Somos pioneros en la construcción de soluciones personalizadas, implementando servicios B2B. Durante 10 años nos hemos destacado por la creación de diseños especializados en soluciones innovadoras, optimizando procesos de comunicación masiva, contact center, cobranzas, marketing y servicio al cliente.
+## 💎 Pilares Fundamentales
 
-### Nuestros servicios principales incluyen  
-- Call Center · SAC · Cobranza · Marketing Digital  
-- Desarrollo a medida · Servicios de gestión y comunicación masiva  
-- SMS · SMS 2-way · SMS to Call · IVR · Voz · Email · WhatsApp
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Nuestros Valores
+
+```mermaid
+mindmap
+  root((YES BPO))
+    Responsabilidad
+      Planeación estratégica
+      Eficiencia e innovación
+    Pasión
+      Mejor servicio
+      Agilidad y eficacia
+    Lealtad
+      Fidelidad a tu marca
+      Apoyo en crecimiento
+    Disciplina
+      Enfoque en resultados
+      Compromiso total
+```
+
+</td>
+<td width="50%">
+
+### ⭐ Lo que nos Distingue
+
+- **🙏 Agradecimiento**: 10 años de confianza con las mejores empresas del país
+- **🤝 Acompañamiento**: Desde la primera conversación hasta el éxito final
+- **💡 Innovación**: YES BPO 4.0 - Tecnología de vanguardia
+- **🎨 Creatividad**: Soluciones únicas que generan valor agregado
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📍 Ubicación  
-Calle 124 #45-15 Bogotá, Colombia
+## 📊 Nuestra Historia
+
+```
+2010 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025
+ │                    │                        │
+ ├─ 🎬 Inicio         ├─ 🔄 Evolución         ├─ 🚀 Líder Nacional
+ │  Telemercadeo      │  Servicios B2B        │  YES BPO 4.0
+ │                    │                        │
+2010-2013            2016                     2025
+Portafolio &         Actualización            Mayor crecimiento
+Cobranzas            estratégica              del sector
+```
+
+**Hitos Clave:**
+- 📞 **2010**: Nacimiento como call center especializado
+- 💼 **2011-2013**: Primeros clientes en recuperación de cartera
+- 🔧 **2016**: Transformación y enfoque en soluciones personalizadas
+- 🏆 **2025**: Referentes en innovación B2B
 
 ---
 
-## 📌 Información de contacto  
-- Página web: [yesbpo](https://yesbpo.com)  
-- Correo: comercial@yesbpo.co  
-- Teléfono: +57 310 816 7555  
-- LinkedIn: [Yes BPO S.A.S](https://co.linkedin.com/company/yes-bpo-s-a-s)  
-- Instagram: [@yesbpo](https://www.instagram.com/yesbpo/)  
-- Facebook: [YesBPO.co](https://www.facebook.com/yesbpo.co)
+## 🛠️ Portafolio de Servicios
+
+<div align="center">
+
+### 🎯 Soluciones Principales
+
+</div>
+
+| Categoría | Servicios |
+|-----------|-----------|
+| 📞 **Contact Center** | Call Center · SAC · Atención al Cliente · Soporte Técnico |
+| 💰 **Gestión Financiera** | Cobranza · Recuperación de Cartera · Prevención de Mora |
+| 🎨 **Marketing Digital** | Estrategias Digitales · Social Media · Campañas 360° |
+| 💻 **Desarrollo Tech** | Soluciones a Medida · Integración de Sistemas · APIs |
+| 📱 **Comunicación Masiva** | SMS · SMS 2-way · SMS to Call · IVR · Voz · Email · WhatsApp |
+
+<details>
+<summary><b>🔍 Ver más detalles de servicios</b></summary>
+
+### Comunicación Omnicanal
+
+- **SMS Tradicional**: Envío masivo de mensajes de texto
+- **SMS 2-way**: Comunicación bidireccional en tiempo real
+- **SMS to Call**: Conversión automática de SMS a llamadas
+- **IVR**: Sistemas de respuesta de voz interactiva
+- **Email Marketing**: Campañas automatizadas y personalizadas
+- **WhatsApp Business**: Atención y ventas por WhatsApp
+
+### Tecnología Avanzada
+
+- Integración con CRMs
+- Análisis de datos en tiempo real
+- IA y automatización
+- Reporting y dashboards personalizados
+
+</details>
 
 ---
 
-© 2025 Yes Contact & BPO SAS. Todos los derechos reservados.  
+## 🌟 ¿Por qué elegirnos?
+
+<div align="center">
+
+| 🎯 Experiencia | 💡 Innovación | 🤝 Compromiso | 📈 Resultados |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+| +10 años | BPO 4.0 | 24/7 | ROI comprobado |
+| Líderes del sector | Tecnología de punta | Acompañamiento total | Satisfacción +95% |
+
+</div>
+
+> **"No somos solo un proveedor, somos tu socio estratégico en el camino hacia el éxito"**
+
+---
+
+## 📍 Ubicación & Contacto
+
+<div align="center">
+
+### 🏢 Oficinas Principales
+
+**📍 Dirección**: Calle 124 #45-15, Bogotá D.C., Colombia
+
+### 📞 Canales de Contacto
+
+| Canal | Información |
+|:-----:|:------------|
+| 🌐 | **Web**: [yesbpo.com](https://yesbpo.com) |
+| ✉️ | **Email**: comercial@yesbpo.co |
+| 📱 | **Teléfono**: +57 310 816 7555 |
+| 💼 | **LinkedIn**: [Yes BPO S.A.S](https://co.linkedin.com/company/yes-bpo-s-a-s) |
+| 📸 | **Instagram**: [@yesbpo](https://www.instagram.com/yesbpo/) |
+| 👥 | **Facebook**: [YesBPO.co](https://www.facebook.com/yesbpo.co) |
+
+</div>
+
+---
+
+## 🚀 ¿Listo para transformar tu negocio?
+
+<div align="center">
+
+### Contáctanos hoy y descubre cómo podemos ayudarte
+
+[![Contáctanos](https://img.shields.io/badge/📧_Escríbenos-comercial@yesbpo.co-667eea?style=for-the-badge)](mailto:comercial@yesbpo.co)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+57_310_816_7555-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573108167555)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Siguenos en Nuestras Redes
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://co.linkedin.com/company/yes-bpo-s-a-s)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yesbpo/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yesbpo.co)
+[![Website](https://img.shields.io/badge/-Website-667eea?style=flat-square&logo=google-chrome&logoColor=white)](https://yesbpo.com)
+
+---
+
+**© 2025 Yes Contact & BPO SAS** · Todos los derechos reservados · *Hecho con* ❤️ *en Colombia*
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  "La conexión perfecta para tu negocio"                 │
+│  YES BPO - Innovación · Calidad · Compromiso            │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
