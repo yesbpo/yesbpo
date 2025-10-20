@@ -1,6 +1,6 @@
 <!-- Banner o logo al inicio -->
 <p align="center">
-  <img src="[assets/logo-horizontal.png](https://yesbpo.co/Logo%20Yes%20BPO_Mesa%20de%20trabajo%201.png)" alt="Yes Contact & BPO SAS Logo" width="300"/>
+  <img src="https://yesbpo.co/Logo%20Yes%20BPO_Mesa%20de%20trabajo%201.png" alt="Yes Contact & BPO SAS Logo" width="300"/>
 </p>
 
 # Yes Contact & BPO SAS  
